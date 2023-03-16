@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding ="UTF-8" ?>
+
+<ItemGraph>
+
+<Planet>
+<name>Elkia</name>
+<Lake>Mud Hole</Lake>
+<Lake>Elkia Minor</Lake>
+<Lake>Elkia Major</Lake>
+</Planet>
+
+<Planet>
+<name>Sparr</name>
+<Lake>Karr River</Lake>
+<Lake>Sparr Marsh</Lake>
+</Planet>
+
+<Planet>
+<name>Commonwealth</name>
+<Lake>Public Pond</Lake>
+<Lake>Kind Fishery</Lake>
+<Lake>Golden Towers</Lake>
+<Lake>Capital Bay</Lake>
+<Lake>Sewer</Lake>
+</Planet>
+
+<Planet>
+<name>Collosum</name>
+<Lake>Goliath</Lake>
+<Lake>Chimera</Lake>
+<Lake>Soapstone Pools</Lake>
+</Planet>
+
+<Planet>
+<name>Ghal Drah</name>
+<Lake>Sautime Sea</Lake>
+<Lake>Karrak River</Lake>
+<Lake>Tar Pit</Lake>
+</Planet>
+
+<Planet>
+<name>Grey</name>
+<Lake>Grey Sea</Lake>
+<Lake>Grey Marsh</Lake>
+<Lake>Grey Ice  Basin</Lake>
+</Planet>
+
+<Planet>
+<name>Planet 6</name>
+<Lake>Pit</Lake>
+<Lake>Tomb</Lake>
+</Planet>
+
+</ItemGraph>

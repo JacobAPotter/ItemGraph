@@ -1,0 +1,10 @@
+C:\Users\Jacob\source\repos\ItemGraph\bin\Debug\ItemGraph.exe.config
+C:\Users\Jacob\source\repos\ItemGraph\bin\Debug\ItemGraph.exe
+C:\Users\Jacob\source\repos\ItemGraph\bin\Debug\ItemGraph.pdb
+C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.ItemGraph.resources
+C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.Properties.Resources.resources
+C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.exe
+C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.pdb
