@@ -23,12 +23,22 @@ namespace ItemGraph
         private void ItemGraph_Load(object sender, EventArgs e)
         {
             doc = new XmlDocument();
-            doc.LoadXml("ItemGraph.xml");
+            doc.Load("ItemGraph.xml");
 
             XmlNodeList planetNodes = doc.SelectNodes("//Planet");
 
             foreach (XmlNode planetNode in planetNodes)
                 planetBox.Items.Add(planetNode.SelectSingleNode("name").InnerText);
+        }
+
+        private void baitBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void attractantBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

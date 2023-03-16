@@ -8,3 +8,14 @@ C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.csproj.GenerateResourc
 C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.csproj.CoreCompileInputs.cache
 C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.exe
 C:\Users\Jacob\source\repos\ItemGraph\obj\Debug\ItemGraph.pdb
+C:\Users\potte\source\repos\bin\Debug\ItemGraph.exe.config
+C:\Users\potte\source\repos\bin\Debug\ItemGraph.exe
+C:\Users\potte\source\repos\bin\Debug\ItemGraph.pdb
+C:\Users\potte\source\repos\obj\Debug\ItemGraph.csproj.AssemblyReference.cache
+C:\Users\potte\source\repos\obj\Debug\ItemGraph.csproj.SuggestedBindingRedirects.cache
+C:\Users\potte\source\repos\obj\Debug\ItemGraph.ItemGraph.resources
+C:\Users\potte\source\repos\obj\Debug\ItemGraph.Properties.Resources.resources
+C:\Users\potte\source\repos\obj\Debug\ItemGraph.csproj.GenerateResource.cache
+C:\Users\potte\source\repos\obj\Debug\ItemGraph.csproj.CoreCompileInputs.cache
+C:\Users\potte\source\repos\obj\Debug\ItemGraph.exe
+C:\Users\potte\source\repos\obj\Debug\ItemGraph.pdb

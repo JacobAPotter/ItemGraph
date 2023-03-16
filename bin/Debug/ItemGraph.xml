@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding ="UTF-8" ?>
-
 <ItemGraph>
 
 <Planet>
@@ -50,5 +49,99 @@
 <Lake>Pit</Lake>
 <Lake>Tomb</Lake>
 </Planet>
+
+
+<Lake>
+<name>Mud Hole
+<Location>All
+
+<Lake>
+<name>Elkia Minor</name>
+</Lake>
+
+<Lake>
+<name>Elkia Major
+
+<Lake>
+<name>Karr River</name>
+</Lake>
+
+
+<Lake>
+<name>Sparr Marsh</name>
+</Lake>
+
+<Lake>
+<name>Public Pond</name>
+</Lake>
+
+<Lake>
+<name>Kind Fishery</name>
+</Lake>
+
+<Lake>
+<name>Golden Towers</name>
+</Lake>
+
+<Lake>
+<name>Capital Bay</name>
+</Lake>
+
+<Lake>
+<name>Sewer</name>
+</Lake>
+
+<Lake>
+<name> Elkia </name>
+</Lake>
+
+<Lake>
+<name> Elkia </name>
+</Lake>
+
+<Lake>
+<name>Goliath</name>
+</Lake>
+
+<Lake>
+<name>Chimera</name>
+</Lake>
+
+<Lake>
+<name>Soapstone Pools</name>
+</Lake>
+
+<Lake>
+<name>Sautume Sea</name>
+</Lake>
+
+<Lake>
+<name>Karrak River</name>
+</Lake>
+
+<Lake>
+<name>Tar Pit</name>
+</Lake>
+
+<Lake>
+<name>Grey Sea</name>
+</Lake>
+
+<Lake>
+<name>Grey Marsh</name>
+</Lake>
+
+<Lake>
+<name>Grey Ice Basin</name>
+</Lake>
+
+<Lake>
+<name>The Pit</name>
+</Lake>
+
+<Lake>
+<name>The Tomb</name>
+</Lake>
+
 
 </ItemGraph>
